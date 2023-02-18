@@ -1,0 +1,425 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Gorditas:wght@700&family=Poppins:ital,wght@0,100;1,600;1,700&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.navbar{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+
+}
+
+h2{
+   margin-left: 100px;
+    color: #256E73;
+    font-size: 1.5em;
+    
+
+}
+
+.navbar ul{
+    display: flex;
+    padding-left: 500px;
+}
+
+.navbar ul li{
+    color: black;
+    display: flex;
+    margin: 20px;
+    font-size: small;
+
+}
+.col-1{
+    display: flex;
+    margin-right: 100px;
+    background: #256E73;
+    border-radius: 0px 0px 0px 120px;
+    height: 550px;
+    margin-left: 95px;
+}
+
+.col-1 h2{
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 70px;
+    color: #FFFFFF;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-1 span{
+   font-size: 16px;
+   font-weight: 200;
+  
+
+}
+.col-1 p{
+    margin-top: 20px;
+   
+}
+
+.col-1 a{
+    text-decoration: none;
+    background-color: white;
+    color: #256E73;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 12px 27px;
+    border-radius: 0px 30px 30px 30px;
+}
+
+.col-1 img{
+    width: 517px;
+    height: 600px;
+    padding-top: 30px;
+  
+    padding-bottom: -30px;
+   
+}
+
+.lower-text{
+    margin-top: 30px;
+    font-size: 22px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+
+.lower-text span{
+    color: #256E73;
+    font-weight: bold;
+}
+
+.partners{
+    margin-left: 120px;
+    padding-top: 35px;
+}
+
+.col-2{
+    padding-top: 65px;
+    display: flex;
+}
+
+.col-2 h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: #333;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding-right: 90px;
+}
+
+.left{
+    padding-left: 100px;
+    
+    
+
+}
+.right{
+    padding-left: 65px;
+    padding-right: 140px;
+    font-family: poppins;
+}
+
+.col-2 .left span{
+    color:#256E73;
+    margin-top: 30px;
+    
+}
+
+.right{
+    padding-top: 200px;
+    padding-bottom: 20px;
+    
+    
+    
+}
+.right p span{
+    padding-top: 10px;
+    color: black;
+}
+
+.right a{
+    text-decoration: none;
+    background-color:#256E73;
+    color:white;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 40px;
+    padding: 15px 27px;
+    border-radius: 0px 30px 30px 30px;
+   
+}
+ .col-3{
+    display: flex;
+    padding-top: 10px;
+    
+}
+
+.col-3 .left-3{
+    padding-left: 100px;
+    padding-right: 120px;
+    
+}
+
+.col-3 .right-3{
+    padding-right: 100px;
+}
+
+.right-3 h3{
+    padding-left: 100px;
+}
+
+.left-3 a{
+    text-decoration: none;
+    background-color:#256E73;
+    color:white;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 40px;
+    padding: 15px 27px;
+    border-radius: 0px 30px 30px 30px;
+   
+}
+
+.right-3 h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: #333;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding-right: 20px;
+}
+
+.left-3{
+    padding-top: 250px;
+}
+.heading h3{
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 100px;
+
+}
+
+.heading h3 span{
+    color: #256E73;
+}
+.fourt-sec{
+    padding-top: 80px;
+}
+
+
+.cards {
+    width: auto;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    align-items: ends;
+    margin-bottom: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 150px;
+    padding-right: 100px;
+    padding-top: 50px;
+
+}
+
+.card {
+    background: white;
+    padding: 30px;
+    padding-bottom: 70px;
+    border-radius: 10px;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150;
+    display: flex;
+    
+}
+
+.card div{
+    display: block;
+}
+
+.material-icons {
+    font-size: 60px;
+    color: #256E73;
+    padding-top: 60px;
+    padding-right: 10px;
+
+
+    
+}
+
+.card h2 {
+    margin-left: 0px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    
+}
+.card a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.material-icons {
+    font-size: 60px;
+    color: #256E73;
+    padding-top: 60px;
+    padding-right: 10px;
+
+
+    
+}
+
+.card:hover{
+    background-color: #256E73;
+    color: #FFFFFF;
+}
+
+.card:hover h2, .card:hover p{
+    color: #FFFFFF;
+}
+
+.card:hover i{
+    color: #FFFFFF;
+}
+
+
+
+.card1 a{
+    text-decoration: none;
+    color: black;
+}
+
+.fourth .container{
+    color: #FFFFFF;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+
+    
+
+}
+
+
+.cards-contain{
+    background-color: #256E73;
+
+
+}
+.card-contain{
+    display: flex;
+
+}
+
+.news-card{
+    margin-bottom: 20px;
+    padding: 40px;
+}
+
+.cards-contain h2{
+    padding-left: 220px;
+    padding-top: 40px;
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 10px;
+    color: #FFFFFF;
+}
+
+.news-card h4{
+    padding-top: 10px;
+}
+
+.news-card h3{
+    padding-top: 10px;
+}
+
+.news-card p{
+    padding-top: 10px;
+    font-size: 11px;
+}
+
+.letter-contain{
+    display: flex;
+    padding: 50px;
+    
+}
+
+.inline{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-left: 260px;
+    color: #256E73;
+    font-size: normal;
+    padding-right: 50px;
+
+}
+
+.letter-contain a{
+    text-decoration: none;
+    background-color:#256E73;
+    color:white;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 15px 27px;
+    border-radius: 0px 30px 30px 30px
+}
+
+.link-details{
+    display: flex;
+    
+
+}
+
+.detail{
+   padding-left: 50px;
+    margin: 35px;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+.footer-container{
+    display: flex;
+    background-color: #256E73;
+    padding-bottom: 0px;
+    padding-left: 40px;
+    color: #FFFFFF;
+    border-radius: 0px 120px 0px 0px;
+
+
+   
+    
+    
+}
+
+.sec-footer{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.logo h3{
+    padding-top: 100px;
+    padding-left: -50px;
+    padding-right: 20px;
+   
+
+}
+
+.detail h3{
+    padding-bottom: 20px;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.detail ul li{
+list-style: none;
+margin-bottom: 10px;
+}
